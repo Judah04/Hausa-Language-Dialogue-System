@@ -1,2 +1,2 @@
 # Hausa-Language-Dialogue-System
-My Final Year Project
+a Hausa speech dialogue system integrating ASR, NLP, and TTS.
